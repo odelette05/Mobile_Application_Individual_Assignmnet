@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/baloo_bhaijaan</item>
+        <item>@font/cabin_bold</item>
+        <item>@font/david_libre_bold</item>
+        <item>@font/lilita_one</item>
+        <item>@font/oxygen</item>
+        <item>@font/oxygen_bold</item>
+        <item>@font/oxygen_light</item>
+    </array>
+</resources>
